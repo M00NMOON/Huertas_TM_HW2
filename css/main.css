@@ -151,6 +151,22 @@ footer {
     background-image: url(../images/Katara-WB.png);
 }
 
+#lightbox3 {
+    background-image: url(../images/Sokka-WB.png);
+}
+
+#lightbox4 {
+    background-image: url(../images/Suki-WB2.png);
+}
+
+#lightbox5 {
+    background-image: url(../images/Toph-WB.png);
+}
+
+#lightbox6 {
+    background-image: url(../images/Zuko-WB.png);
+}
+
 .lightbox_close {
     position: relative;
     top:20px;
