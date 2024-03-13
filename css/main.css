@@ -148,6 +148,9 @@ footer {
     display: none;
 }
 
+#lightbox2 {
+    background-image: url(../images/Katara-WB.png);
+}
 
 .lightbox_close {
     position: relative;
@@ -188,18 +191,4 @@ footer {
 }
 
 
-.lightbox2 {
-    width: 100vw;
-    height: 100vh;
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: 100;
-    background-color: #E7D9BE;
-    background-image: url(../images/Katara-WB.png);
-    background-repeat: no-repeat;
-    background-size: 55vh;
-    background-position: 40px bottom;
-    display: none;
-}
 
