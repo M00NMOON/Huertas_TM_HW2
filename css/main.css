@@ -132,7 +132,6 @@ footer {
 
 /*lightbox rules*/
 
-
 .lightbox{
     width: 100vw;
     height: 100vh;
@@ -189,6 +188,5 @@ footer {
 .lightbox:target {
     display: block;
 }
-
 
 
