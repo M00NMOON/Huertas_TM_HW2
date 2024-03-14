@@ -143,7 +143,7 @@ footer {
     background-image: url(../images/Aang-WB.png);
     background-repeat: no-repeat;
     background-size: 55vh;
-    background-position: 40px bottom;
+    background-position: bottom 40px left 150px;
     display: none;
 }
 
